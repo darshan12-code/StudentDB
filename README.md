@@ -4,10 +4,10 @@
 ##Home Page
  <img src="https://github.com/darshan12-code/StudentDB/blob/main/SS/StudentRecordWeb1.png">
 
-##Add Page
+## Add Page
 <img src="https://github.com/darshan12-code/StudentDB/blob/main/SS/StudentRecordWeb2.png">
 
-##Update Page
+## Update Page
 <img src="https://github.com/darshan12-code/StudentDB/blob/main/SS/StudentRecordWeb3.png">
 
 
